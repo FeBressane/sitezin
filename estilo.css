@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(to right, turquoise, rgb(223, 79, 223), turquoise);
+}
+#image{
+    width: 600px;
+    height: 600px;
+}
